@@ -50,9 +50,7 @@ Our Power BI Sales Insights and Forecasting Dashboard relies on the following ke
 - **Power BI Desktop**: Design, visualization, and interactive reporting.
 - **DAX (Data Analysis Expressions)**: Creation of calculations and measures supporting data visualizations.
 - **Advanced Analytics**: Predict future sales trends based on historical data.
-- **Data Sources**: Source data from various channels such as databases, APIs, and other structured data stores.
 - **Power Query**: Clean and transform raw data into a structured format.
-- **Git and GitHub**: Utilize version control and collaborative development.
 
 ## Data Set
 
