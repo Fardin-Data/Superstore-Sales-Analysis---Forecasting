@@ -1,4 +1,4 @@
-# Superstore Sales Insights and Forecasting
+# Superstore Sales Analysis and Forecasting
 
 This repository contains a Power BI project that showcases sales insights and forecasting. The project includes a dashboard that offers a comprehensive overview of sales data, as well as a separate page dedicated to a sales forecasting model for the next 10 days. This README guide will walk you through the project.
 
