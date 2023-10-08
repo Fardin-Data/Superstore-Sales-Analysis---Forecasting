@@ -1,4 +1,6 @@
 # Superstore Sales Analysis and Forecasting
+<img src="https://github.com/Fardin-Data/Superstore-Sales-Analysis-and-Forecasting/assets/137788371/0d26d4a0-80cd-4f6e-bcb6-37af346c1fcc" width="1400">
+
 
 This repository contains a Power BI project that showcases sales insights and forecasting. The project includes a dashboard that offers a comprehensive overview of sales data, as well as a separate page dedicated to a sales forecasting model for the next 10 days. This README guide will walk you through the project.
 
