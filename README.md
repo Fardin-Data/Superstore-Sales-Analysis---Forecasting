@@ -8,7 +8,7 @@
 - [Sales Forecasting](#Sales-Forecasting)
 - [Key Insights](#Key-Insights)
 - [Tech Stack](#Tech-Stack)
-- [Data Set](#Data-Set)
+- [Data Source](#Data-Source)
   
 ## Introduction
 
@@ -79,7 +79,7 @@ Project relies on the following key technologies:
 - **Advanced Analytics**: Predict future sales trends based on historical data.
 - **Power Query**: Clean and transform raw data into a structured format.
 
-## Data Set
+## Data Source
 
 The Superstore Sales Data used in this project can be accessed [here](https://drive.google.com/drive/folders/1t_r26xUjm5ZyEFFOF3AD1BmOvUgQaxd1?usp=sharing).
 
