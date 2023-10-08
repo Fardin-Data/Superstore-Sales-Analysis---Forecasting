@@ -78,6 +78,16 @@ Project relies on the following key technologies:
 - **Advanced Analytics**: Predict future sales trends based on historical data.
 - **Power Query**: Clean and transform raw data into a structured format.
 
+## Files Information
+`Data`
+
+- **SuperStore Processed Data:** This file holds the data that has undergone cleaning and processing.
+- **Sales TimeSeries:** This file includes an additional table created using DAX, which played a role in the forecasting process.
+
+`Results`
+
+- **Dashboard:** Within this section, you will find two sheets - one dedicated to the interactive dashboard and the other to the forecasting report.
+
 ## Data Source
 
 The Superstore Sales Data used in this project can be accessed [here](https://drive.google.com/drive/folders/1t_r26xUjm5ZyEFFOF3AD1BmOvUgQaxd1?usp=sharing).
