@@ -53,7 +53,7 @@ The dashboard section offers an array of visualizations that empower users to ex
 ![Forecasting Report](https://github.com/Fardin-Data/Superstore_Sales_Insights_and_Forecasting/assets/137788371/e6350e18-85e5-4961-9e61-f8b0243f679d)
 
 
-The sales forecasting page focuses on predicting sales for the subsequent 10 days. Leveraging historical sales data and advanced forecasting techniques, this predictive model enables users to interact with forecasted results.
+The sales forecasting page focuses on predicting sales for the subsequent 10 days. Leveraging historical sales data and advanced forecasting techniques of Power BI.
 
 ## Key Insights
 
