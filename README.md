@@ -1,14 +1,6 @@
 # Superstore Sales Analysis and Forecasting
 <img src="https://github.com/Fardin-Data/Superstore-Sales-Analysis-and-Forecasting/assets/137788371/0d26d4a0-80cd-4f6e-bcb6-37af346c1fcc" width="1400">
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Process](#Process)
-- [Dashboard](#Dashboard)
-- [Sales Forecasting](#Sales-Forecasting)
-- [Key Insights](#Key-Insights)
-- [Tech Stack](#Tech-Stack)
-- [Data Source](#Data-Source)
   
 ## Introduction
 In today's business landscape, data-driven decision-making is crucial for success. The Superstore Sales Analysis and Forecasting project leverages the power of data to uncover patterns, trends, and key insights within a sales dataset. By employing advanced analytics and visualization techniques, this project assists stakeholders in understanding historical sales performance and predicting future trends.
