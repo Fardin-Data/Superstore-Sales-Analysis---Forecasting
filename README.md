@@ -1,4 +1,4 @@
-# Superstore Sales Analysis & Forecasting
+# Superstore Sales Analysis and Forecasting
 <img src="https://github.com/Fardin-Data/Superstore-Sales-Analysis-and-Forecasting/assets/137788371/0d26d4a0-80cd-4f6e-bcb6-37af346c1fcc" width="1400">
 
 ## Table of Contents
